@@ -41,8 +41,8 @@ I enjoy creating tools that feel smooth, powerful, and developer-friendly while 
 - 🔌 Plugin-capable architecture
 
 <p align="center">
-  <a href="https://github.com/taha babu/alidev/stargazers"><img src="https://img.shields.io/github/stars/alijutt-xd/alidev?style=social" alt="GitHub stars" /></a>
-  <a href="https://github.com/taha babu/alidev/network/members"><img src="https://img.shields.io/github/forks/alijutt-xd/alidev?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/taha babu/alidev/stargazers"><img src="https://img.shields.io/github/stars/tahakhan-xd/alidev?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/taha babu/alidev/network/members"><img src="https://img.shields.io/github/forks/tahakhan-xd/alidev?style=social" alt="GitHub forks" /></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ I enjoy creating tools that feel smooth, powerful, and developer-friendly while 
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alijutt-xd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahakhan-xd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
